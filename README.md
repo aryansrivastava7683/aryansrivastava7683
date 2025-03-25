@@ -1,9 +1,9 @@
-<div style="text-align: center; background-image: url('./bg-top.jpg'); background-size: cover; padding: 40px;">
+<div style="text-align: center; background-image: url('https://i.ibb.co/1G6Jckc4/bg-top.jpg'); background-size: cover; padding: 40px;">
   <h1 style="color: white; background-color: rgba(0, 0, 0, 0.5); border-radius:20px">Hi 👋, I'm Aryan Srivastava</h1>
 </div>
 
 
-<h3 align="center">I am a curious cat, looking to learn and explore new technologies.</h3>
+<h3 align="left">I am a curious cat, looking to learn and explore new technologies.</h3>
 <h4 align="left">
 I'm a Web Developer who loves building cool stuff with React & Next.js. My coding style? Like a lazy cat. 🚀 Currently diving deep into databases and testing processes, while occasionally tinkering with Generative AI.
 
