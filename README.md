@@ -53,11 +53,13 @@ Dark mode? Light mode? I let my eyes decide. 😆</h4>
 </div>
 
 
-<p style="margin-top:80px">
+<div style="margin-top:80px">
+  <p>
   <img align="center" style="margin-bottom:20px; margin-top:40px; " 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansrivastava7683&show_icons=true&locale=en&layout=compact&bg_color=0C0C1C&title_color=ffffff&text_color=ffffff&icon_color=ffcc00"
     alt="aryansrivastava7683" />
 </p>
 
 <p>&nbsp;<img align="center" style="margin-bottom:20px" src="https://github-readme-stats.vercel.app/api?username=aryansrivastava7683&show_icons=true&locale=en&layout=compact&bg_color=0C0C1C&title_color=ffffff&text_color=ffffff&icon_color=ffcc00" alt="aryansrivastava7683" /></p>
+</div>
 
