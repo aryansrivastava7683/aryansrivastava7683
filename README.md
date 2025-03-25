@@ -3,7 +3,7 @@
 </div>
 
 
-<h3 align="center">I am a curious cat, looking to learn and explore new technologies.</h3>
+<h3 align="left">I am a curious cat, looking to learn and explore new technologies.</h3>
 <h4 align="left">
 I'm a Web Developer who loves building cool stuff with React & Next.js. My coding style? Like a lazy cat. 🚀 Currently diving deep into databases and testing processes, while occasionally tinkering with Generative AI.
 
