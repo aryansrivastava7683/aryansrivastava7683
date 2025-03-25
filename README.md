@@ -1,4 +1,7 @@
-<div style="text-align: center; background-image: url('https://i.ibb.co/1G6Jckc4/bg-top.jpg'); background-size: cover; padding: 40px;">
+
+<div align="center"><img src='https://i.ibb.co/1G6Jckc4/bg-top.jpg'/></div>
+
+<div style="text-align: center; background-size: cover; padding: 40px;">
   <h1 style="color: white; background-color: rgba(0, 0, 0, 0.5); border-radius:20px">Hi 👋, I'm Aryan Srivastava</h1>
 </div>
 
