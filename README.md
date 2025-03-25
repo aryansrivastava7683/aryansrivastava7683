@@ -16,7 +16,7 @@ Dark mode? Light mode? I let my eyes decide. 😆</h4>
 
 - 🌱 I’m currently learning **Frontend Frameworks and Backend connectivity.**
 
-- 👨‍💻 All of my projects are available at [https://aryan-srivastava-ptf.vercel.app/](https://aryan-srivastava-ptf.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://aryan-srivastava-ptf.vercel.app/]([https://aryan-srivastava-ptf.vercel.app/](https://aryan-srivastava-zygk.vercel.app/))
 
 - 💬 Ask me about **React, Next.js, Tailwind CSS, MongoDB, Supabase, SQLite, and API integrations**
 
