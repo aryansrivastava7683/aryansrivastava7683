@@ -50,19 +50,8 @@ Dark mode? Light mode? I let my eyes decide. 😆</h4>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> 
 
- 
 
-
-
-
-
-
-
-
-
-
-
-<p>
+<p style="margin-top:80px">
   <img align="center" style="margin-bottom:20px; margin-top:40px; " 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansrivastava7683&show_icons=true&locale=en&layout=compact&bg_color=0C0C1C&title_color=ffffff&text_color=ffffff&icon_color=ffcc00"
     alt="aryansrivastava7683" />
