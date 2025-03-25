@@ -1,17 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <script src="https://cdn.tailwindcss.com"></script>
-    
-</head>
-<body>
 
-<h1 align="center">Hi 👋, I'm Aryan Srivastava</h1>
+
+<h1 align="center" styles="background:url(./bg-top.jpg)">Hi 👋, I'm Aryan Srivastava</h1>
 <h3 align="center">I am a curious cat, looking to learn and explore new technologies.</h3>
 
 - 🌱 I’m currently learning **Frontend Frameworks and Backend connectivity.**
@@ -41,5 +30,3 @@
 
 <p><img align="center" style="margin-bottom:20px; margin-top:-10px"  src="https://github-readme-streak-stats.herokuapp.com/?user=aryansrivastava7683&" alt="aryansrivastava7683" /></p>
 
-</body>
-</html>
